@@ -137,6 +137,7 @@
     }
   },
   "scripts": {
+    "start": "reaction",
     "test": "jest"
   },
   "jest": {
